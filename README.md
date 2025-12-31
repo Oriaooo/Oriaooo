@@ -10,7 +10,7 @@ I am a machine learning engineer, strongly interested in:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anselme-canivet) 
 
-## ⭐ My projects
+## ⭐ My projects:
 
 Most my projects are in private repositories and aren't visible on my github profile, but feel free to check them out!
 
